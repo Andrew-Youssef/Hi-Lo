@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IST_TASK_1_200HR-HI_LO_GAME_-ANDREW_YOUSSEF
+</name>
+</assembly>
+<members>
+<member name="T:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.HI_LO_Game_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.HI_LO_Game_Logo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.HI_LO_Game_Logo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.Hi_lo_music">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.High_label">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.High_label1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.Low_label">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IST_TASK_1_200HR_HI_LO_GAME__ANDREW_YOUSSEF.My.Resources.Resources.Low_label1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
